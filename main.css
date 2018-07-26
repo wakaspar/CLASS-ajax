@@ -1,0 +1,60 @@
+/** {
+  border: 1px solid green;
+}*/
+
+body {
+  background-color: black;
+  background-image: url('images/lh1.jpg');
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1, h3 {
+  color: orange;
+  font-family: 'Arial';
+  text-align: center;
+  text-shadow: 2px 1px black;
+  font-size: 3em;
+}
+
+footer {
+  background-color: black;
+  color: orange;
+  font-family: 'Arial';
+  text-align: center;
+}
+
+img {
+  max-width: 66vw;
+  box-shadow: 5px 5px black;
+}
+
+.tag {
+  display: none;
+}
+
+.background {
+    height: 100vh;
+    width: 100vw;
+    background-color: purple;
+}
+
+.spacer {
+  height: 33.3vh;
+  width: 33.3vw;
+  text-align: center;
+  margin: auto;
+}
+
+.text-box {
+  margin: auto;
+  text-align: center;
+  /*overflow: hidden;*/
+}
+
+@media screen and (max-width: 910px){
+  .text-box {
+    height: 45vh;
+  }
+}
