@@ -1,6 +1,8 @@
 # CLASS-ajax
 Berkeley / Stanford (HS) Education Unlimited 2018  - jQuery API ($ajax) Demo
 
+![lighthouse](https://github.com/wakaspar/CLASS-ajax/blob/master/images/lh1.jpg)
+
  ## Dogs & Lighthouses - Introduction
  The purpose of this project is to showcase two easy-to-learn, but highly useful jQuery techniques for building custom web front-ends.  
  
