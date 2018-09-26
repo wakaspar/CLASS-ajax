@@ -82,9 +82,6 @@ A simple ajax GET request:
  ```
  The above fires if ajax fails.
 
- ### Client-side storage
- A request from a student to look into: *"Is it possible to store data in the client?"* I started to get a solution implemented that seemed to be able to store data in the browser's cache, but I haven't successfully retrieved it yet.
-
  ## Tech Used
  + HTML5/CSS3/JavaScript
  + jQuery
